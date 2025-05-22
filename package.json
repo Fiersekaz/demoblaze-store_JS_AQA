@@ -1,0 +1,23 @@
+{
+  "name": "demoblaze-store_js_aqa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fiersekaz/learn_to_autotoes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Fiersekaz/learn_to_autotoes/issues"
+  },
+  "homepage": "https://github.com/Fiersekaz/learn_to_autotoes#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.21"
+  }
+}
