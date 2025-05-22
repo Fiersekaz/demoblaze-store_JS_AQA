@@ -6,7 +6,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Fiersekaz/learn_to_autotoes.git"
+    "url": "git+https://github.com/Fiersekaz/demoblaze-store_js_aqa.git"
   },
   "keywords": [],
   "author": "",
@@ -19,5 +19,8 @@
   "devDependencies": {
     "@playwright/test": "^1.52.0",
     "@types/node": "^22.15.21"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^9.8.0"
   }
 }
